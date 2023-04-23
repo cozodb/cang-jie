@@ -1,3 +1,5 @@
+This is a fork that works with the forked Tantivy tokenizers instead.
+
 # cang-jie([仓颉](https://en.wikipedia.org/wiki/Cangjie))
 
 [![Crates.io](https://img.shields.io/crates/v/cang-jie.svg)](https://crates.io/crates/cang-jie)
